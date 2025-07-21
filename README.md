@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/workflow_ml.gif" alt="Workflow animation" width="1000"/>
+  <img src="./media/workflow_ml.png" alt="Workflow animation" width="1000"/>
 </p>
 
 <p align="center">
