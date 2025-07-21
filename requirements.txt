@@ -1,0 +1,8 @@
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+ase==3.24.0
+plotly==5.24.1
+notebook
+ipykernel
