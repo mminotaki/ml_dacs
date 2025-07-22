@@ -45,6 +45,12 @@ pip install -r requirements.txt
 ```
 ---
 
+## 📂 Dataset Access
+
+The dataset is available in [Zenodo](https://doi.org/10.5281/zenodo.1234567) repository in pickle format. 
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions and suggestions!
@@ -60,29 +66,31 @@ Open a pull request
 
 ---
 
-## 📚 Reference
+## 📖 Citation
 
 If you use **ML-DACs** in your work, please cite our preprint:
 
-> Maria G. Minotaki and Núria López.  
-> **Transfer learning with domain knowledge adaptation for stability evaluation of dual-atom catalysts on nitrogen-doped carbon.**  
-> *ChemRxiv* (2025). https://doi.org/10.26434/chemrxiv-2025-pjdpq
+> Maria G. Minotaki and Núria López. **Transfer learning with domain knowledge adaptation for stability evaluation of dual-atom catalysts on nitrogen-doped carbon.**  *ChemRxiv* (2025). https://doi.org/10.26434/chemrxiv-2025-pjdpq
 
----
-
-## 📖 BibTeX
 
 ```bibtex
-@article{Minotaki2025,
-  author       = {Minotaki, M. G. and López, N.},
+@article{mldacs,
+  author       = {Minotaki, Maria G. and López, Núria},
   title        = {Transfer learning with domain knowledge adaptation for stability evaluation of dual-atom catalysts on nitrogen-doped carbon},
-  journal      = {ChemRxiv},
+  journal      = {submitted},
   year         = {2025},
-  doi          = {10.26434/chemrxiv-2025-pjdpq},
-  note         = {This content is a preprint and has not been peer-reviewed}
+  doi          = {},
 }
 ```
 ---
-## 📄 License
+## ⚖️ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**ML-DACs** is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📚 References
+
+- Minotaki, M.G. & López, N. *Transfer learning with domain knowledge adaptation for stability evaluation of dual-atom catalysts on nitrogen-doped carbon.* [ChemRxiv (2025)](https://doi.org/10.26434/chemrxiv-2025-pjdpq)<br><br>
+
+- Minotaki, M.G., Geiger, J., Ruiz-Ferrando, A., Sabadell-Rendón, A., López, N. *A generalized model for estimating adsorption energies of single atoms on doped carbon materials.* *J. Mater. Chem. A*, **12**, 11049–11061 (2024). [https://doi.org/10.1039/D3TA05898K](https://doi.org/10.1039/D3TA05898K)
