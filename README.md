@@ -91,6 +91,8 @@ If you use **ML-DACs** in your work, please cite our preprint:
 
 ## 📚 References
 
+- Minotaki, M.G. & López, N. *Transfer learning with domain knowledge adaptation for stability evaluation of dual-atom catalysts on nitrogen-doped carbon.* Phys. Chem. Chem. Phys., Advance article (2025). [DOI: 10.1039/D5CP01340B](https://doi.org/10.1039/D5CP01340B)<br><br>
+
 - Minotaki, M.G. & López, N. *Transfer learning with domain knowledge adaptation for stability evaluation of dual-atom catalysts on nitrogen-doped carbon.* [ChemRxiv (2025)](https://doi.org/10.26434/chemrxiv-2025-pjdpq)<br><br>
 
 - Minotaki, M.G., Geiger, J., Ruiz-Ferrando, A., Sabadell-Rendón, A., López, N. *A generalized model for estimating adsorption energies of single atoms on doped carbon materials.* *J. Mater. Chem. A*, **12**, 11049–11061 (2024). [https://doi.org/10.1039/D3TA05898K](https://doi.org/10.1039/D3TA05898K)
